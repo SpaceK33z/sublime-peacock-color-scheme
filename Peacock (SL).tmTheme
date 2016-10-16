@@ -20,15 +20,11 @@
                 <key>lineHighlight</key>
                 <string>#403c37</string>
                 <key>selection</key>
-                <string>#ff5d38</string>
-                <key>selectionForeground</key>
-                <string>#ffffff</string>
+                <string>#53514b</string>
                 <key>findHighlight</key>
                 <string>#ffe792</string>
                 <key>findHighlightForeground</key>
                 <string>#000000</string>
-                <key>selectionBorder</key>
-                <string>#222218</string>
                 <key>activeGuide</key>
                 <string>#9d550fb0</string>
 
@@ -53,6 +49,8 @@
             <string>comment</string>
             <key>settings</key>
             <dict>
+                <key>fontStyle</key>
+                <string>italic</string>
                 <key>foreground</key>
                 <string>#7a7267</string>
             </dict>
